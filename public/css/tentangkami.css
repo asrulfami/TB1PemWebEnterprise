@@ -1,0 +1,18 @@
+/* Font */
+body {
+    font-family: "Ubuntu";
+}
+
+/* Custom background gradient */
+.bg-gradient-custom {
+    background: linear-gradient(to right, #46074e, #197bd0);
+}
+
+.bg-gradient-custom-footer {
+    background: linear-gradient(
+        to right,
+        #46074e,
+        rgba(70, 7, 78, 0.8),
+        #197bd0
+    );
+}
